@@ -14,17 +14,13 @@ Using the np.linalg.inv(),we can find the solution
 ### Step 4: 
 End the program
 ## Program:
-#Program to find the rank of a matrix.
-
+#Program to find the inverse of a matrix.
 #Developed by: DIVYA E
-
 #RegisterNumber: 23011187
-
 import numpy as np
-
 A = np.array([[6,2,3],[3,1,1],[10,3,4]])
-
-print(np.linalg.inv(A))
+inverse(np.linalg.inv(A))
+print(inverse)
 ## Output:
 ![OUTPUT](https://github.com/DHIVYA050430/INVERSE-OF-A-MATRIX/assets/147141546/2aa8615c-bd48-42bf-bcf4-8b38ed47336c)
 
