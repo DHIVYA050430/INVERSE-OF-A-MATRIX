@@ -24,7 +24,7 @@ import numpy as np
 
 A = np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 
-inverse(np.linalg.inv(A))
+inverse(np.linalg.inv(A)
 
 print(inverse)
 
